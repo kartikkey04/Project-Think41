@@ -1,2 +1,6 @@
-# No external dependencies required
+# API Dependencies
+flask
+flask-cors
+
+# No external dependencies required for database operations
 # Uses only built-in Python libraries: sqlite3, csv, os 
