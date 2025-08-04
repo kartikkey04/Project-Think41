@@ -1,0 +1,2 @@
+# No external dependencies required
+# Uses only built-in Python libraries: sqlite3, csv, os 
